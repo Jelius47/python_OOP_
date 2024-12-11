@@ -175,6 +175,8 @@ print(se1 == se2)  # Output: True
 ##### Magic methods and decorators like `@staticmethod` and `@property `enhance class functionality.
 
 ---Feel free to fork, star, and contribute to this repository!
+##### Regards,
+##### [Jelius H.](https://github.com/Jelius47)
 
 
 
